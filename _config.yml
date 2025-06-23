@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guo Zhiling"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Assitant Professor"
 repository               : "Chokurei/Chokurei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "GUO Zhiling"
   avatar           : "images/guo_photo.jpg"
-  bio              : "Building Envrionment and Energy Engineering, The Hong Kong Polytechnic University"
-  location         : "Hong Kong, China"
+  bio              : "Building Envrionment and Energy Engineering (BEEE), The Hong Kong Polytechnic University (PolyU)"
+  location         : "ZS831, PolyU, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RWzTK10AAAAJ"
