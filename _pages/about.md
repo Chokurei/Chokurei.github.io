@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN</div><img src='images/APEN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN</div><img src='images/APEN-Xu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatiotemporal feature encoded deep learning method for rooftop PV potential assessment](https://www.sciencedirect.com/science/article/pii/S0306261925009018)
