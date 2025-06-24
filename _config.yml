@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "GUO Zhiling"
   avatar           : "images/guo_photo.jpg"
-  bio              : "Building Envrionment and Energy Engineering (BEEE), The Hong Kong Polytechnic University (PolyU)"
-  location         : "ZS831, PolyU, Hong Kong"
+  bio              : "The Hong Kong Polytechnic University"
+  location         : "ZS831, Block Z"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RWzTK10AAAAJ"
