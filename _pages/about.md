@@ -17,12 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<h1>Hi, I’m Zhiling Guo 👋</h1>
-
-
+<h1>Hi, I’m GUO Zhiling 👋</h1>
 
 <p>
-  I am an <strong>Assistant Professor</strong> in the Department of Building Environment and Energy Engineering (BEEE) at <strong>The Hong Kong Polytechnic University (PolyU)</strong>. I obtained my M.E. and Ph.D. degrees from <strong>The University of Tokyo</strong>, where I was supervised by <a href="https://scholar.google.com/citations?user=0UjOE4IAAAAJ&hl=en" target="_blank" style="text-decoration: none;"><strong>Prof. SHIBASAKI Ryosuke</strong></a>. Before joining PolyU, I worked as a data scientist at <strong>LocationMind Inc.</strong> in Japan, and later served as a postdoctoral fellow and Research Assistant Professor under the mentorship of <a href="https://scholar.google.com/citations?hl=en&user=hfCPxHkAAAAJ" target="_blank" style="text-decoration: none;"><strong>Prof. YAN Jinyue Jerry</strong></a> at the <a href="https://www.polyu.edu.hk/iuex/?sc_lang=en" target="_blank"><strong>International Centre of Urban Energy Nexus (UEX)</strong></a>.
+  Currently I am an <strong>Assistant Professor</strong> in the Department of Building Environment and Energy Engineering (BEEE) at <strong>The Hong Kong Polytechnic University (PolyU)</strong>. I obtained my M.E. and Ph.D. degrees from <strong>The University of Tokyo</strong> supervised by <a href="https://scholar.google.com/citations?user=0UjOE4IAAAAJ&hl=en" target="_blank" style="text-decoration: none;"><strong>Prof. SHIBASAKI Ryosuke</strong></a>. Before joining PolyU, I worked as a data scientist at <strong>LocationMind Inc.</strong> in Japan, and later served as a postdoctoral fellow and Research Assistant Professor under the mentorship of <a href="https://scholar.google.com/citations?hl=en&user=hfCPxHkAAAAJ" target="_blank" style="text-decoration: none;"><strong>Prof. YAN Jinyue Jerry</strong></a> at the <a href="https://www.polyu.edu.hk/iuex/?sc_lang=en" target="_blank"><strong>International Centre of Urban Energy Nexus (UEX)</strong></a>.
 </p>
 
 <p>
