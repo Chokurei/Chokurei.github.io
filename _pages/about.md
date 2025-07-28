@@ -41,6 +41,15 @@ redirect_from:
 
 <div class="scrollable-section">
 
+- <em>2025.07</em>: &nbsp;🎤 Present <em>Global Estimation of ... 3D Building Footprint and Spatio-Temporal Datasets </em> in <em>CUE 2025 Nexus Panel </em>
+<br/>
+
+- <em>2025.07</em>: &nbsp;🎤 Present <em>Harnessing Generative AI for Smart Energy Data Generation</em> in <em>CUE 2025 CCRP Workshop </em>
+<br/>
+
+- <em>2025.07</em>: &nbsp;📑 Visit <em>U-Tokyo</em>, <em>KeioU</em>, <em>Daigas Group</em>, etc. in Japan with <em>RICRI</em> key members
+<br/>
+
 - <em>2025.06</em>: &nbsp;🎉 Our paper <em>A Review of Blockchain Consensus Mechanisms for Peer-to-Peer Electricity Trading</em> as been accepted by <em>RSER</em>
 <br/>
 
