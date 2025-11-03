@@ -41,6 +41,15 @@ redirect_from:
 
 <div class="scrollable-section">
 
+- <em>2025.11 </em>:  🎉 Our paper <em>Data-Driven Prediction of Fine-Grained Facade Solar Irradiance for ... </em> has been accepted by <em>APEN </em>
+<br/>
+
+- <em>2025.10 </em>:  🏆 Received <em>Best Presentation Award </em> in <em> MI Green Power Innovation Conference </em>
+<br/>
+
+- <em>2025.10 </em>:  🎤 Present <em>Spatial-Temporal Renewable Energy Evaluation </em> in <em>Panel: GPIC-3 with REM2025 </em>
+<br/>
+
 - <em>2025.07</em>: &nbsp;🎤 Present <em>Global Estimation of ... 3D Building Footprint and Spatio-Temporal Datasets </em> in <em>CUE 2025 Nexus Panel </em>
 <br/>
 
