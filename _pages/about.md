@@ -24,7 +24,7 @@ redirect_from:
 </p>
 
 <p>
-  My research aims to transform urban energy infrastructures into <strong>digital</strong>, <strong>intelligent</strong>, and <strong>efficient</strong> systems that foster sustainable and resilient cities. To achieve this, I adopt an <strong>interdisciplinary approach</strong> that integrates <strong>Machine Learning</strong>, <strong>Geoscience</strong>, <strong>IoT</strong>, and <strong>Renewable Energy Technologies</strong>. <a href='https://scholar.google.com/citations?user=RWzTK10AAAAJ'><img src="https://img.shields.io/badge/citations-2000+-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat" alt="Google Scholar Citations"></a>
+  My research aims to transform urban energy infrastructures into <strong>digital</strong>, <strong>intelligent</strong>, and <strong>efficient</strong> systems that foster sustainable and resilient cities. To achieve this, I adopt an <strong>interdisciplinary approach</strong> that integrates <strong>Machine Learning</strong>, <strong>Geoscience</strong>, <strong>IoT</strong>, and <strong>Renewable Energy Technologies</strong>. <a href='https://scholar.google.com/citations?user=RWzTK10AAAAJ'><img src="https://img.shields.io/badge/citations-2100+-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat" alt="Google Scholar Citations"></a>
 </p>
 
 <p>
