@@ -45,13 +45,22 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 <div class="scrollable-section">
 
+- <em>2025.12 </em>:  🎤 Present <em>Global Estimation of Building-Integrated Facade & Rooftop Photovoltaic Potential ... </em> in <em>Panel: ICAE 2025, Bangkok </em>
+<br/>
+
+- <em>2025.11 </em>:  🎤 Present <em>Integrating Artificial Intelligence and GIS for Building Solar Potential Analysis </em> in <em>Kyoto University </em>
+<br/>
+
 - <em>2025.11 </em>:  🎉 Our paper <em>Data-Driven Prediction of Fine-Grained Facade Solar Irradiance for ... </em> has been accepted by <em>APEN </em>
+<br/>
+
+- <em>2025.11 </em>:  🎤 Present <em>Assessment of Photovoltaic Potential for Buildings Based on ... Technology </em> in <em>Peking University </em>
 <br/>
 
 - <em>2025.10 </em>:  🏆 Received <em>Best Presentation Award </em> in <em> MI Green Power Innovation Conference </em>
 <br/>
 
-- <em>2025.10 </em>:  🎤 Present <em>Spatial-Temporal Renewable Energy Evaluation </em> in <em>Panel: GPIC-3 with REM2025 </em>
+- <em>2025.10 </em>:  🎤 Present <em>Spatial-Temporal Renewable Energy Evaluation </em> in <em>Panel: GPIC-3 with REM2025, Yancheng </em>
 <br/>
 
 - <em>2025.07</em>: &nbsp;🎤 Present <em>Global Estimation of ... 3D Building Footprint and Spatio-Temporal Datasets </em> in <em>CUE 2025 Nexus Panel </em>
@@ -179,6 +188,8 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 - <em>Jul. 2025 – Jul. 2028</em>: Fine-Grained Modeling of ... via Embodied Intelligence and Low Altitude Airspace Technologies, <strong>PI</strong>, PolyU (UGC)
 <br/>
 
+- <em>Jul. 2025 – Mar. 2028</em>: Urban Infrastructure and Resilience, <strong>Co-PI</strong>, State Key Laboratory of Climate Resilience for Coastal Cities (SKLCRCC)
+
 - <em>May. 2025 - Dec. 2027</em>: Urban Resilience Enhancement for UREBTW ToolBox, <strong>Co-I</strong>, RICRI
 <br/>
 
@@ -232,7 +243,7 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 # 🧩 Services
 <div class="scrollable-section">
-- <strong><em>Assistant Editor</em></strong>: Nexus (Cell Press), Advances in Applied Energy, Energy Proceedings 
+- <strong><em>Member</em></strong>: Urban Infrastructure and Resilience, State Key Laboratory of Climate Resilience for Coastal Cities (SKLCRCC) 
 <br/>
 
 - <strong><em>Director</em></strong>: DigiEnergy Lab, International Centre of Urban Energy Nexus (UEX)
@@ -253,6 +264,9 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 # 📚 Publications
 
 <div class="publications-container">
+
+- Dong, K., <strong>Guo, Z.</strong>*, Yu, Q., Xu, J., & Yan, J. (2026). Data-driven prediction of fine-grained facade solar irradiance for urban PV potential assessment. Applied Energy, 403, 127009.
+<br/>
 
 - Xu, J., <strong>Guo, Z.</strong>*, Yu, Q., Dong, K., Tan, H., Zhang, H., & Yan, J. (2025). Spatiotemporal feature encoded deep learning method for rooftop PV potential assessment. Applied Energy, 394, 126171.
 <br/>
