@@ -189,6 +189,7 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 <br/>
 
 - <em>Jul. 2025 – Mar. 2028</em>: Urban Infrastructure and Resilience, <strong>Co-PI</strong>, State Key Laboratory of Climate Resilience for Coastal Cities (SKLCRCC)
+<br/>
 
 - <em>May. 2025 - Dec. 2027</em>: Urban Resilience Enhancement for UREBTW ToolBox, <strong>Co-I</strong>, RICRI
 <br/>
