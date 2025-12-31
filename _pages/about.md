@@ -45,6 +45,9 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 <div class="scrollable-section">
 
+- <em>2025.12 </em>:  🎤 Present in <em>The 2nd Beijing–Hong Kong–Shanghai Symposium on Energy Transition and Climate Change, Shanghai </em>
+<br/>
+
 - <em>2025.12 </em>:  🎤 Present <em>Global Estimation of Building-Integrated Facade & Rooftop Photovoltaic Potential ... </em> in <em>Panel: ICAE 2025, Bangkok </em>
 <br/>
 
@@ -244,16 +247,25 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 # 🧩 Services
 <div class="scrollable-section">
-- <strong><em>Member</em></strong>: Urban Infrastructure and Resilience, State Key Laboratory of Climate Resilience for Coastal Cities (SKLCRCC) 
+- <strong><em>Assistant Editor</em></strong>: <a href="https://www.sciencedirect.com/journal/advances-in-applied-energy" target="_blank">Advances in Applied Energy</a>, <a href="https://www.cell.com/nexus/home" target="_blank">Nexus</a>
 <br/>
 
-- <strong><em>Director</em></strong>: DigiEnergy Lab, International Centre of Urban Energy Nexus (UEX)
+- <strong><em>Member</em></strong>: Urban Infrastructure and Resilience, State Key Laboratory of Climate Resilience for Coastal Cities (<a href="https://www.polyu.edu.hk/sklcrcc/" target="_blank">SKLCRCC</a>) 
+<br/>
+
+- <strong><em>Director</em></strong>: <a href="https://www.chokurei.net/" target="_blank">DigiEnergy Lab</a>, International Centre of Urban Energy Nexus (UEX)
 <br/>
 
 - <strong><em>Guest Editor</em></strong>: Advances in Applied Energy, Applied Energy, Remote Sensing, Sensors, etc.
 <br/>
 
 - <strong><em>Conf. Secretary & Session Chair</em></strong>: IGARSS, Nexus Forum, ICAE, CUE, etc. 
+<br/>
+
+- <strong><em>Faculty Board</em></strong>: Faculty of Construction & Environment (FCE), PolyU
+<br/>
+
+- <strong><em>Deputy Programme Leader</em></strong>: Building Service Engineering (BSE), PolyU
 <br/>
 
 - <strong><em>Teaching Subjects</em></strong>: Building Informatics, Applied Solar Energy in Buildings, Energy Efficient Buildings, etc.
