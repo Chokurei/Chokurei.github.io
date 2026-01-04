@@ -45,6 +45,12 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 <div class="scrollable-section">
 
+- <em>2026.01 </em>:  🎉 Our paper <em>Instantaneous Urban Facade ... for Arbitrary Planning Horizons </em> has been accepted by <em>APEN </em>
+<br/>
+
+- <em>2026.01 </em>:  🎉 Our paper <em>Leveraging Pretrained Diffusion Model for Semantic 3D Reconstruction ... </em> has been accepted by <em>TGRS </em>
+<br/>
+
 - <em>2025.12 </em>:  🎤 Present in <em>The 2nd Beijing–Hong Kong–Shanghai Symposium on Energy Transition and Climate Change, Shanghai </em>
 <br/>
 
