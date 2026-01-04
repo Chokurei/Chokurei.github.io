@@ -280,7 +280,7 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 </div> 
 
 
-# 📚 Publications
+# 📚 Selected Publications
 
 <div class="publications-container">
 
