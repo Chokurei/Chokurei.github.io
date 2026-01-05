@@ -45,6 +45,9 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 <div class="scrollable-section">
 
+- <em>2026.01 </em>:  🎉 Our paper <em>Synthesizing Images with Aligned Masks Using Text-to-Image Based Generative AI ... </em> has been accepted by <em>RE </em>
+<br/>
+
 - <em>2026.01 </em>:  🎉 Our paper <em>Instantaneous Urban Facade ... for Arbitrary Planning Horizons </em> has been accepted by <em>APEN </em>
 <br/>
 
