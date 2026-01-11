@@ -287,6 +287,9 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 <div class="publications-container">
 
+- Tan, H., <strong>Guo, Z.</strong>*, Li, J., Chen, Y., ... & Yan, J. (2026). Synthesizing Images with Aligned Masks Using Text-to-Image Based Generative AI for Robust PV Segmentation. Renewable Energy, 125217.
+<br/>
+
 - Dong, K., <strong>Guo, Z.</strong>*, Yu, Q., Xu, J., & Yan, J. (2026). Data-driven prediction of fine-grained facade solar irradiance for urban PV potential assessment. Applied Energy, 403, 127009.
 <br/>
 
