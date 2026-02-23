@@ -45,6 +45,9 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 <div class="scrollable-section">
 
+- <em>2026.02 </em>:  🎤 Present in <em>The 2nd International Workshop on Data Science, Hong Kong </em>
+<br/>
+
 - <em>2026.01 </em>:  🎉 Our paper <em>Synthesizing Images with Aligned Masks Using Text-to-Image Based Generative AI ... </em> has been accepted by <em>RE </em>
 <br/>
 
