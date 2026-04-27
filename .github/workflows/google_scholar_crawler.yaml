@@ -30,3 +30,8 @@ jobs:
       env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+    - name: Purge jsDelivr cache
+      run: |
+        sleep 10
+        curl -s "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@google-scholar-stats/gs_data.json"
+        curl -s "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@google-scholar-stats/gs_data_shieldsio.json"
