@@ -15,6 +15,7 @@ def fetch_author():
         "author_id": SCHOLAR_ID,
         "api_key": SERPAPI_KEY,
         "num": 100,
+        "no_cache": "true",
     }
     articles = []
     start = 0
