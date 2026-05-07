@@ -61,6 +61,13 @@ def main():
     h_index = extract_index(table, "h_index")
     i10_index = extract_index(table, "i10_index")
 
+    if total_citations == 0 or not data.get("articles"):
+        raise RuntimeError(
+            f"SerpAPI returned empty data (citedby={total_citations}, "
+            f"articles={len(data.get('articles', []))}). Refusing to overwrite "
+            f"good data with zeros. Will retry on next cron tick."
+        )
+
     publications = {}
     for art in data.get("articles", []):
         pub_id = art.get("citation_id")
