@@ -45,6 +45,15 @@ Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy 
 
 <div class="scrollable-section">
 
+- <em>2026.05 </em>:  🎉 Our paper <em>PANEL: A Photovoltaic-Specific Vision-Language Model for Zero-Shot ... </em> has been accepted by <em>ISPRS </em>
+<br/>
+
+- <em>2026.05 </em>:  🎤 Chair in <em> Industrial Perspectives on the Future of AI × Energy, Ningoo, China </em>
+<br/>
+
+- <em>2026.05 </em>:  🎤 Present <em> AI-driven Methods for Urban Solar Potential Assessment</em> in <em>Ningbo University </em>
+<br/>
+
 - <em>2026.02 </em>:  🎤 Present in <em>The 2nd International Workshop on Data Science, Hong Kong </em>
 <br/>
 
