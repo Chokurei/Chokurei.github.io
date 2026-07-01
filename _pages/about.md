@@ -28,7 +28,7 @@ redirect_from:
 </p>
 
 <p>
-Visit my <a href="https://www.chokurei.net/" target="_blank"><strong>DigiEnergy Lab</strong></a> for more info.
+Visit my <a href="https://www.chokurei.net/" target="_blank" style="text-decoration: none;"><strong>DigiEnergy</strong> <img src="{{ '/images/digienergy_logo.png' | relative_url }}" alt="DigiEnergy Lab logo" style="height: 1.4em; vertical-align: -0.4em; margin: 0 0.1em;"> <strong>Lab</strong></a> for more info.
 </p>
 
 <p style="color: blue;">Please feel free to contact me if you are interested in Collab., Visiting, RA, Post-doc, or pursuing a Ph.D.</p>
