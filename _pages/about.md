@@ -46,6 +46,15 @@ Visit my <a href="https://www.chokurei.net/" target="_blank" style="text-decorat
 <div class="scrollable-section">
 
 
+- <em>2026.07 </em>:  🎤 Representative Speaker at <em>“Enchanting Beautiful China, Beautiful Hong Kong” Experience Day Promoting Green Transition and Sustainability, Hong Kong, China </em>
+<br/>
+
+- <em>2026.07 </em>:  🏆 Awarded the <em>Nexus High Citation Award (Oxford University)</em> for the paper <em>Global estimation of building-integrated facade and rooftop photovoltaic potential by integrating 3D building footprint and spatio-temporal datasets, Oxford, UK </em>
+<br/>
+
+- <em>2026.07 </em>:  🎤 Speaker on integrating AI & Data Science with <em>Harbin Ice and Snow World (冰雪大世界), Harbin, China </em>
+<br/>
+
 - <em>2026.05 </em>:  🎉 Our paper <em>PANEL: A Photovoltaic-Specific Vision-Language Model for Zero-Shot ... </em> has been accepted by <em>ISPRS </em>
 <br/>
 
