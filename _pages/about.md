@@ -49,10 +49,10 @@ Visit my <a href="https://www.chokurei.net/" target="_blank" style="text-decorat
 - <em>2026.07 </em>:  🎤 Speaker on integrating AI & Data Science with <em>Harbin Ice and Snow World, Harbin, China </em>
 <br/>
 
-- <em>2026.07 </em>:  🏆 Awarded the <em>Nexus High Citation Award</em> for the paper <em>Global estimation ... 3D building footprint and spatio-temporal datasets, Oxford, UK </em>
+- <em>2026.07 </em>:  🏆 Awarded the <em>Nexus High Citation Award</em> for the paper <em>Global estimation ... and spatio-temporal datasets, Oxford, UK </em>
 <br/>
 
-- <em>2026.07 </em>:  🎤 Representative Speaker at <em>“Enchanting Beautiful China, Beautiful Hong Kong” Experience Day Promoting Green Transition and Sustainability, Hong Kong, China </em>
+- <em>2026.07 </em>:  🎤 Representative Speaker at <em>“Enchanting Beautiful China, Beautiful HK” Exp. Day Promoting Green Trans. & Sustain., HK, China </em>
 <br/>
 
 - <em>2026.05 </em>:  🎉 Our paper <em>PANEL: A Photovoltaic-Specific Vision-Language Model for Zero-Shot ... </em> has been accepted by <em>ISPRS </em>
