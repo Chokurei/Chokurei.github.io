@@ -45,6 +45,7 @@ Visit my <a href="https://www.chokurei.net/" target="_blank" style="text-decorat
 
 <div class="scrollable-section">
 
+
 - <em>2026.05 </em>:  🎉 Our paper <em>PANEL: A Photovoltaic-Specific Vision-Language Model for Zero-Shot ... </em> has been accepted by <em>ISPRS </em>
 <br/>
 
