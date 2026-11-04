@@ -46,6 +46,18 @@ I direct the <a href="https://chokurei.github.io/eies-lab-site/" target="_blank"
 <div class="scrollable-section">
 
 
+- <em>2026.10 </em>:  🎉 Our paper <em>Terrain-aware end-to-end deep learning for temporally ... </em> has been accepted by <em>APEN </em>
+<br/>
+
+- <em>2026.10 </em>:  🎉 Our paper <em>Label-efficient global centralized and distributed photovoltaic ... </em> has been accepted by <em>APEN </em>
+<br/>
+
+- <em>2026.09 </em>:  🎤 Chair in <em>Interdisciplinary Energy Transitions: Connecting Technologies, AI, Systems, Cities, and Society, Jeju, South Korea </em>
+<br/>
+
+- <em>2026.08 </em>:  🎉 Our paper <em>Passive cooling to mitigate climate-induced performance losses in photovoltaics </em> has been accepted by <em>CRPS </em>
+<br/>
+
 - <em>2026.07 </em>:  🎤 Speaker on integrating AI & Data Science with <em>Harbin Ice and Snow World, Harbin, China </em>
 <br/>
 
