@@ -126,71 +126,44 @@ I direct the <a href="https://chokurei.github.io/eies-lab-site/" target="_blank"
 
 </div> 
 
-# 📝 Research Topics 
+# 📝 Research Thrusts
+
+My research is organized around one closed loop, **Energy–Information–Action coupling**: energy systems are perceived, modeled, and acted upon, and the physical feedback updates what comes next. The three thrusts below are connected steps of this loop. See the [EIES Lab research page](https://chokurei.github.io/eies-lab-site/research/) for our flagship research scenarios.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Analytics</div><img src='images/topic_genai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Perception</div><img src='images/topic_detection.png' alt="Energy-system perception" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [Spatiotemporal feature encoded deep learning method for rooftop PV potential assessment](https://www.sciencedirect.com/science/article/pii/S0306261925009018) -->
+<strong>*T1-* Energy-System Perception & Observability</strong>
 
-<strong>*T1-* Generative AI-Enhanced Heterogeneous Geospatial Database Development</strong>
+*Keywords: GeoAI, Remote Sensing, Vision-Language Models, Generative AI*
 
-*Keywords: GenAI, LLM, Data Science*
-
-<!-- [*Project*](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- The integration of Generative AI (GenAI) and Large Language Model (LLM) with heterogeneous geospatial data to address critical challenges in renewable energy systems. The goal is to build intelligent, multimodal geospatial databases that support data-driven decision-making across the renewable energy lifecycle. 
+- **What information is sufficient for reliable energy decisions?** We infer energy-relevant states, such as PV installations, building geometry, and urban land use, from incomplete and heterogeneous observations by combining multi-source remote sensing, 3D urban data, and generative AI. Foundations include vision-transformer PV detection (TransPV), generative-AI data synthesis for robust PV segmentation, and a PV-specific vision-language model for zero-shot recognition (PANEL).
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognit.</div><img src='images/topic_detection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">World Models</div><img src='images/topic_spatio.png' alt="Physics-grounded energy world models" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong>*T2-* Global-Scale Mapping of Urban Renewable Energy Sources via Remote Sensing and Machine Learning</strong>
+<strong>*T2-* Physics-Grounded Energy World Models</strong>
 
-*Keywords: GIS, DL, Pattern Recognition*
+*Keywords: Solar Physics, Spatiotemporal Deep Learning, 3D Urban Environment, Digital Twin*
 
-<!-- *Discription* <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Explore a comprehensive framework that integrates multi-source remote sensing (RS) data with advanced machine learning algorithms to enable the global-scale mapping and analysis of urban renewable energy sources. 
+- **How do energy systems respond to changes and actions?** We combine physical laws with spatiotemporal learning to predict how urban energy systems evolve, from solar irradiance on building facades and rooftops to generation, storage, and demand, and we are extending these models toward action-conditioned prediction under uncertainty and operating limits. Foundations include global estimation of building-integrated facade and rooftop PV potential (Nexus), fine-grained facade irradiance prediction, and digital-twin simulation of urban renewable systems.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability Assessment</div><img src='images/topic_spatio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decision & Control</div><img src='images/topic_resilience.gif' alt="Energy-constrained decision and control" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong>*T3-* Spatial-temporal Renewable Energy Evaluation and Validation for Sustainable Development</strong>
+<strong>*T3-* Energy-Constrained Embodied Decision & Control</strong>
 
-*Keywords: 3D-urban, Low-altitude, Sustainability*
+*Keywords: Embodied AI, Low-Altitude Systems, Closed-Loop Control, Climate Resilience*
 
-- Develop a real-time and global-scale spatiotemporal evaluation framework for urban renewable energy by integrating 3D urban environment, climate datasets, and physical models. 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Symbiosis</div><img src='images/topic_visual.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<strong>*T4-* Renewable Energy Simulation and Digital Twin Toolkit Integration for Smart Energy Infrastructure.</strong>
-
-*Keywords: Digital Twin, Toolkits Dev.*
-
-- By combining environmental data, building-level modeling, and digital twin technologies, the study enables dynamic simulation and optimization of urban solar and wind systems. The digital symbiosis framework fosters interaction between physical assets and their digital counterparts, enhancing system adaptability, efficiency, and long-term resilience for future low-carbon cities.
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Resilience</div><img src='images/topic_resilience.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<strong>*T5-* Intelligent Platform & Toolbox for Urban Infrastructure Resilience</strong>
-
-*Keywords: Resilience, Climate Change, Urban Infrastructure*
-
-[*Project*](https://www.polyu.edu.hk/ricri/?sc_lang=en) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Synergy AI, real-time data, and digital twin technology to help cities prepare for and respond to natural disasters. By analyzing sensor and weather data, it predicts risks like floods or heatwaves, sends early warnings, and guides emergency actions. A resilience index and simulation tools also support long-term planning and cross-agency coordination.
+[*Project*](https://www.polyu.edu.hk/ricri/?sc_lang=en)
+- **How can energy agents act safely and adaptively?** We investigate how intelligent agents turn perception and world models into safe physical actions under changing energy resources and operating limits, and how they learn from the measured consequences. Ongoing work covers embodied intelligence and low-altitude technologies for fine-grained urban energy modeling (PI, PolyU), and AI-enabled platforms for urban infrastructure resilience under climate extremes (RICRI, SKLCRCC).
 </div>
 </div>
 
