@@ -1,6 +1,6 @@
 # 04 — 主页改用 EIES Lab 新叙事（替换 DigiEnergy）
 
-状态：done（本地已改，待 push） ｜ 标签：eies-lab,rebrand,about,logo,research,jekyll ｜ 日期：2026-11-04
+状态：done（已 push） ｜ 标签：eies-lab,rebrand,about,logo,research,jekyll ｜ 日期：2026-11-04
 
 ## 目标
 实验室由 DigiEnergy Lab 改名为 EIES Lab（Laboratory for Embodied Intelligence in Energy Systems，能源具身智能实验室），官网 `https://chokurei.github.io/eies-lab-site/`（独立仓库 `Chokurei/eies-lab-site`，源码在 `Incubator/Lab-Design/lab-site/`）。个人主页叙事、logo、链接同步到新实验室。
