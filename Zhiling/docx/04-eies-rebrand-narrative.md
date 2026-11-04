@@ -12,7 +12,10 @@
 - 侧栏放带文字的横版 logo；不加"成立实验室"的 news
 
 ## 做了什么
-1. **logo**：由 `Lab-Design/site/EIES_Lab_logo_transparent.png` 裁边生成 `images/eies_lab_logo.png`（640px，侧栏）；由 `EIES_Lab_symbol_transparent.png` 生成 `images/eies_lab_symbol.png`（96px 高，about 行内）
+1. **logo**（以实验室仓库 `assets/media/logo.svg` 为准，Inter 字体 v2 版）：
+   - 侧栏 `images/eies_lab_logo.svg` = `Lab-Design/site/logo_vector/EIES_Lab_logo_on-light.svg`（文字已转路径、纯黑）把 viewBox 裁成与 logo.svg 相同的 `72 72 1260 386`；与 logo.svg 用 Inter 渲染后叠加对比完全重合。用转路径版是因为 logo.svg 的文字靠网页加载 Inter、颜色是 currentColor，作为 `<img>` 会退回系统字体
+   - about 行内 `images/eies_lab_symbol.svg` = logo.svg 里的三条色带（`logo_vector/EIES_Lab_symbol.svg` 是旧 v1 比例，不要用）
+   - 11-04 初版误用了 `EIES_Lab_logo_transparent.png`（Lato v1 旧版），已删除
 2. **侧栏** `_includes/author-profile.html`：换 EIES logo + 链接
 3. **about.md**：
    - 研究陈述改为 Embodied Intelligence in Energy Systems / Energy–Information–Action 叙事
