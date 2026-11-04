@@ -24,7 +24,7 @@ redirect_from:
 </p>
 
 <p>
-  My research aims to transform urban energy infrastructures into <strong>digital</strong>, <strong>intelligent</strong>, and <strong>efficient</strong> systems that foster sustainable and resilient cities. To achieve this, I adopt an <strong>interdisciplinary approach</strong> that integrates <strong>Machine Learning</strong>, <strong>Geoscience</strong>, <strong>IoT</strong>, and <strong>Renewable Energy Technologies</strong>. <a href='https://scholar.google.com/citations?user=RWzTK10AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat" alt="Google Scholar Citations"></a>
+  My research focuses on <strong>Embodied Intelligence in Energy Systems</strong>: how energy dynamics and physical constraints shape intelligent perception and decision-making, and how closed-loop physical actions enable energy systems to adapt autonomously. Building on my background in <strong>spatiotemporal data analytics</strong>, <strong>GeoAI</strong>, and <strong>remote sensing</strong>, I study the <strong>Energy–Information–Action</strong> loop across urban solar–storage systems, data-center energy, and climate-resilient energy networks. <a href='https://scholar.google.com/citations?user=RWzTK10AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat" alt="Google Scholar Citations"></a>
 </p>
 
 <p>
