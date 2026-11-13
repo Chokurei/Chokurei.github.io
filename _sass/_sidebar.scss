@@ -119,6 +119,16 @@
   }
 }
 
+/* 实验室 logo：窄屏横排时与学校名留间距；宽屏竖排时与上方学校名左对齐 */
+.author__lab {
+  text-align: left;
+  margin: 0 0 0 1em;
+
+  @include breakpoint($large) {
+    margin: 0.5em 0 1em;
+  }
+}
+
 .author__name {
   margin: 0;
 
