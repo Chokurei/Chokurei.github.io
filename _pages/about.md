@@ -31,7 +31,7 @@ redirect_from:
 I direct the <a href="https://chokurei.github.io/eies-lab-site/" target="_blank" style="text-decoration: none;"><strong>DigiEnergy Lab</strong> <img src="{{ '/images/eies_lab_symbol.svg' | relative_url }}" alt="DigiEnergy Lab logo" style="height: 1em; vertical-align: -0.12em; margin: 0 0.1em;"></a> (Laboratory for Digital Intelligence in Energy Systems, 能源数字智能实验室) at UEX, PolyU. Visit the <a href="https://chokurei.github.io/eies-lab-site/" target="_blank">lab website</a> for our team, research, and news.
 </p>
 
-<p style="color: blue;">Please feel free to contact me if you are interested in Collab., Visiting, RA, Post-doc, or pursuing a Ph.D. at <a href="https://chokurei.github.io/eies-lab-site/contact/" target="_blank">EIES Lab</a>. We welcome backgrounds in energy systems, GeoAI, physical AI, and physics-based modeling.</p>
+<p style="color: blue;">Please feel free to contact me if you are interested in Collab., Visiting, RA, Post-doc, or pursuing a Ph.D. at <a href="https://chokurei.github.io/eies-lab-site/contact/" target="_blank">DigiEnergy Lab</a>. We welcome backgrounds in energy systems, GeoAI, physical AI, and physics-based modeling.</p>
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RWzTK10AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=RWzTK10AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -140,7 +140,7 @@ I direct the <a href="https://chokurei.github.io/eies-lab-site/" target="_blank"
 
 # 📝 Research Thrusts
 
-My research is organized around one closed loop, **Energy–Information–Action coupling**: energy systems are perceived, modeled, and acted upon, and the physical feedback updates what comes next. The three thrusts below are connected steps of this loop. See the [EIES Lab research page](https://chokurei.github.io/eies-lab-site/research/) for our flagship research scenarios.
+My research is organized around one closed loop, **Energy–Information–Action coupling**: energy systems are perceived, modeled, and acted upon, and the physical feedback updates what comes next. The three thrusts below are connected steps of this loop. See the [DigiEnergy Lab research page](https://chokurei.github.io/eies-lab-site/research/) for our flagship research scenarios.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Perception</div><img src='images/topic_detection.png' alt="Energy-system perception" width="100%"></div></div>
@@ -269,7 +269,7 @@ My research is organized around one closed loop, **Energy–Information–Action
 - <strong><em>Member</em></strong>: Urban Infrastructure and Resilience, State Key Laboratory of Climate Resilience for Coastal Cities (<a href="https://www.polyu.edu.hk/sklcrcc/" target="_blank">SKLCRCC</a>) 
 <br/>
 
-- <strong><em>Director</em></strong>: <a href="https://chokurei.github.io/eies-lab-site/" target="_blank">EIES Lab</a>, UEX, PolyU
+- <strong><em>Director</em></strong>: <a href="https://chokurei.github.io/eies-lab-site/" target="_blank">DigiEnergy Lab</a>, UEX, PolyU
 <br/>
 
 - <strong><em>Guest Editor</em></strong>: Advances in Applied Energy, Applied Energy, Remote Sensing, Sensors, etc.
