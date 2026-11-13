@@ -13,6 +13,7 @@
 2. **about.md**：实验室行改为 "DigiEnergy Lab … (Laboratory for Digital Intelligence in Energy Systems, 能源数字智能实验室) at UEX, PolyU"；招生行、Research Thrusts 引言链接文字、Services Director 行的 EIES Lab → DigiEnergy Lab
 3. **未改**：研究陈述与 3 个 thrust（实验室站同样保留具身智能叙事）；行内小图标 `eies_lab_symbol.svg` 与 favicon `eies_*`（三色条与新 logo 相同，只是文件名带 eies）；`eies_lab_logo.svg` 已不引用，保留未删
 4. 用户本地确认后：侧栏 logo 改为左对齐、宽度 100%（与上方 bio 文字左缘对齐，2x 截图实测同一像素列）
+5. 用户要求删去中文名：括号内只保留 "Laboratory for Digital Intelligence in Energy Systems"
 
 ## 验证
 本地 build 后页面 0 处 "EIES"；括号全称正确；侧栏/行内图标引用正确；首屏截图正常。
