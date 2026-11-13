@@ -12,6 +12,7 @@
 4. 研究陈述第一句改为 "Digital and Embodied Intelligence in Energy Systems: how intelligence moves from digital perception and prediction to embodied decision and action, and how energy dynamics and physical constraints shape this transition."；Research Thrusts 引言补 "from digital perception and modeling to embodied action"（与实验室站一致，用户已认可）
 
 5. 窄屏（<925px，侧栏横排）logo 与 "University" 无间距：把 `.author__lab` 的内联 style 移到 `_sass/_sidebar.scss`，窄屏 `margin: 0 0 0 1em`，宽屏（breakpoint $large）恢复 `margin: 0.5em 0 1em`。600/768 截图有间距；1400 宽对齐不变（仍是第 225/767 列）
+6. 用户要求括号里加中文名（繁体）：「(Laboratory for Digital and Embodied Intelligence in Energy Systems, 數智具身能源實驗室)」
 
 ## 已知未处理
 - 1024–1279px 宽度时侧栏只有 136px，学校名折成 3 行（最宽 99px），logo 受 max-width 限制为 136px，这一档不对齐（太窄再缩字就看不清了）
