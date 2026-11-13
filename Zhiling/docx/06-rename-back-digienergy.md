@@ -1,6 +1,6 @@
 # 06 — 实验室名改回 DigiEnergy Lab（保留具身智能叙事）
 
-状态：in-progress（本地已改，等用户本地确认后 push） ｜ 标签：digienergy-lab,rebrand,about,logo ｜ 日期：2026-11-13
+状态：done（已 push） ｜ 标签：digienergy-lab,rebrand,about,logo ｜ 日期：2026-11-13
 
 ## 背景
 实验室站 `Chokurei/eies-lab-site` 于 11-13 提交 `385a7ba`：实验室改名 DigiEnergy Lab，**研究叙事仍是 Embodied Intelligence in Energy Systems**；logo 换成 "DigiEnergy Lab" 字标 + 原副标题，三色条不变；站点不再用 "Laboratory for ..." 全称。页脚标语用 "Digital intelligence … / 数字智能"（`417b621`）。网址仍是 `https://chokurei.github.io/eies-lab-site/`。
@@ -15,3 +15,4 @@
 
 ## 验证
 本地 build 后页面 0 处 "EIES"；括号全称正确；侧栏/行内图标引用正确；首屏截图正常。
+4. 用户本地确认后：侧栏 logo 改为左对齐、宽度 100%（与上方 bio 文字左缘对齐，2x 截图实测同一像素列）
