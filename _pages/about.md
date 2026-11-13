@@ -140,7 +140,7 @@ I direct the <a href="https://chokurei.github.io/eies-lab-site/" target="_blank"
 
 # 📝 Research Thrusts
 
-My research is organized around one closed loop, **Energy–Information–Action coupling**: energy systems are perceived, modeled, and acted upon, and the physical feedback updates what comes next. The three thrusts below are connected steps of this loop. See the [DigiEnergy Lab research page](https://chokurei.github.io/eies-lab-site/research/) for our flagship research scenarios.
+My research is organized around one closed loop, **Energy–Information–Action coupling**: energy systems are perceived, modeled, and acted upon, and the physical feedback updates what comes next. The three thrusts below are connected steps of this loop, from digital perception and modeling to embodied action. See the [DigiEnergy Lab research page](https://chokurei.github.io/eies-lab-site/research/) for our flagship research scenarios.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Perception</div><img src='images/topic_detection.png' alt="Energy-system perception" width="100%"></div></div>
